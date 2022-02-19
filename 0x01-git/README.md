@@ -1,0 +1,1 @@
+this project gives a discribtion about how we create github account,what is repository and how we use it  ,how we config git how we use git commands such a commit,push pull ,create and merge branch and also how do we work as collaborator on project by sharig codes. 
